@@ -30,6 +30,7 @@ plot.pig.h017.R
 ## SF3S reanalysis of Ayhan et al., 2021
 org.ayhan.R
 get_db_score.R
+calc_doublet.py
 get_oligo.auc.R
 get_oligo.mars.R
 inte.Konopka.R
